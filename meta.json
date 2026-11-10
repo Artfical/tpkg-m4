@@ -1,0 +1,23 @@
+{
+ "name": "m4",
+ "version": "1.4.19",
+ "license": "GPL-3.0-or-later",
+ "homepage": "",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "m4-1.4.19.tar.xz"
+ ],
+ "desc": "GNU m4 1.4.19, the macro processor",
+ "file": "m4-1.4.19.tpkg",
+ "size": 140432,
+ "sha256": "af361ab30306eafe6f4247865c32cd24fe8d7ee8c1b097dd6a804502860f4c28",
+ "unpacked": 264648,
+ "min_build": 619,
+ "depends": [],
+ "commands": {
+  "m4": "bin/m4"
+ }
+}

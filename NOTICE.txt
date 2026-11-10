@@ -1,0 +1,5 @@
+m4 1.4.19 for tOS
+============
+
+Built from m4-1.4.19.tar.xz (beside this package) on a Linux host with prefix /system/pkg/m4, without changes to the source. License: GPL-3.0-or-later (LICENSE).
+glibc: dynamically linked against the GNU C Library, which tOS's base system carries.
